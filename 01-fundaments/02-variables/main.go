@@ -13,6 +13,3 @@ func main() {
 	a := "X" // string
 	println(a)
 }
-
-func x() {
-}
